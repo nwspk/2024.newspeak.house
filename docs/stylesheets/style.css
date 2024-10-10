@@ -26,19 +26,17 @@
     font-style: italic;
 }
 
-
-
 body {
     /* max-width: 800px; */
     margin: 0 auto;
     padding: 1rem;
     line-height: 1.6;
-    font-family: 'Copernicus', sans-serif; 
+    /* font-family: 'Copernicus', sans-serif;  */
 }
 
-h2, h3, h4 {
+/* h2, h3, h4 {
     font-family: 'Copernicus', sans-serif;
-}
+} */
 
 h2 {
     clear: both;

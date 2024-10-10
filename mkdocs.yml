@@ -7,3 +7,5 @@ nav:
   - Home: index.md
 extra_css: 
   - stylesheets/style.css
+extra_files:
+  - CNAME
