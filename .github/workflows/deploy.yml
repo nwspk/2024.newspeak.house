@@ -3,7 +3,7 @@ name: Deploy MkDocs site
 on:
   push:
     branches:
-      - initial-bios   # This specifies the branch to watch for changes (replace 'main' with your default branch name)
+      - initial-bios
 
 jobs:
   deploy:
@@ -33,7 +33,7 @@ jobs:
 
       # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force --remote-branch gh-pages  # Modify branch name if needed
+        run: mkdocs gh-deploy --force --remote-branch gh-pages  # Github Pages set to deploy from this branch
         env:
           # GitHub token to authorize pushing to the gh-pages branch
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
