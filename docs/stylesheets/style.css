@@ -1,0 +1,29 @@
+body {
+    /* max-width: 800px; */
+    margin: 0 auto;
+    padding: 1rem;
+    line-height: 1.6;
+}
+
+h2 {
+    clear: both;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+p {
+    margin-bottom: 2rem;
+}
+
+img {
+    border-radius: 30px; /* Slightly rounded corners for images */
+    margin-bottom: 2rem;
+}
+
+@media (max-width: 600px) {
+    img {
+        float: none !important;
+        display: block;
+        margin: 0 auto 1rem auto !important;
+    }
+}
