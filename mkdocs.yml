@@ -1,0 +1,9 @@
+site_name: "2024 Newspeak Fellowship Candidates"
+site_url: "https://2024.newspeak.house"
+theme:
+  name: simple-blog
+  custom_dir: custom_theme
+nav:
+  - Home: index.md
+extra_css:
+  - stylesheets/custom.css
