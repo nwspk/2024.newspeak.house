@@ -31,9 +31,18 @@ jobs:
       - name: Build MkDocs site
         run: mkdocs build
 
-      # Step 5: Deploy to GitHub Pages
+    # Step 5: Copy CNAME to the build directory
+      - name: Copy CNAME file
+        run: |
+          echo "2024.newspeak.house" > site/CNAME
+        working-directory: ${{ github.workspace }}
+
+      # Step 6: Confirm CNAME file is present
+      - name: Check CNAME file
+        run: cat site/CNAME
+
+      # Step 7: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force --remote-branch gh-pages  # Github Pages set to deploy from this branch
+        run: mkdocs gh-deploy --force --remote-branch gh-pages
         env:
-          # GitHub token to authorize pushing to the gh-pages branch
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

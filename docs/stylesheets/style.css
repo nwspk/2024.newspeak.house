@@ -1,14 +1,50 @@
+@font-face {
+    font-family: 'Copernicus';
+    src: url('/fonts/GalaxieCopernicus-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Copernicus';
+    src: url('/fonts/GalaxieCopernicus-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Copernicus';
+    src: url('/fonts/GalaxieCopernicus-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Copernicus';
+    src: url('/fonts/GalaxieCopernicus-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
 body {
     /* max-width: 800px; */
     margin: 0 auto;
     padding: 1rem;
     line-height: 1.6;
+    font-family: 'Copernicus', sans-serif; 
+}
+
+h2, h3, h4 {
+    font-family: 'Copernicus', sans-serif;
 }
 
 h2 {
     clear: both;
     margin-top: 2rem;
     margin-bottom: 1rem;
+
 }
 
 p {
