@@ -4,15 +4,16 @@
 {% endblock %}
 
 {% block header %}
-    <header style="display: flex; align-items: center; justify-content: center; padding: 20px; text-align: center;">
-        <div style="display: flex; flex-direction: column; align-items: center;">
-            <img src="{{ 'images/book-logo.png'|url }}" alt="Logo" style="height: 100px; width: auto; object-fit: contain;">
-            <h1 style="margin: 0; line-height: 1.2; font-size: 20px;">
-                2024 Newspeak<br>
-                Fellowship Candidates
-            </h1>
-        </div>
-    </header>
+<header style="display: flex; align-items: center; justify-content: center; padding: 20px; text-align: center;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="{{ 'images/book-logo.png'|url }}" alt="Logo" style="height: 100px; width: auto; object-fit: contain;">
+        {# <h1 style="margin: 0; line-height: 1.2; font-size: 20px;">
+            2024 Newspeak House<br>
+            Fellowship Candidates
+        </h1> #}
+    </div>
+</header>
+{% include "header.html" %}
 {% endblock %}
 
 {% block content %}
