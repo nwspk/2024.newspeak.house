@@ -3,7 +3,7 @@ name: Deploy MkDocs site
 on:
   push:
     branches:
-      - initial-bios
+      - main
 
 jobs:
   deploy:
