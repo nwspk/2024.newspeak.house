@@ -41,7 +41,7 @@ Governance specialist researching digital technologies, democratic processes, an
 ## Alex Papadopoulos
 <img src="images/Alex.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
-UX Researcher in public sector, focused on improving user experiences. Co-runs a queer film festival with a background in Psychology and Human-Computer Interaction. Passionate about making a positive impact through creative pursuits like writing and theatre design.
+UX Researcher in public sector focused on improving user experiences. Co-runs a queer film festival with a background in Psychology and Human-Computer Interaction. Passionate about making a positive impact through creative pursuits like writing and theatre design.
 
 ## Tristan Spill
 <img src="images/Tristan.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
