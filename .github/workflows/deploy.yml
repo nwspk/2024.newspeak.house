@@ -3,7 +3,7 @@ name: Deploy MkDocs site
 on:
   push:
     branches:
-      - gh-pages   # This specifies the branch to watch for changes (replace 'main' with your default branch name)
+      - initial-bios   # This specifies the branch to watch for changes (replace 'main' with your default branch name)
 
 jobs:
   deploy:
