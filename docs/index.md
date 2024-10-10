@@ -1,3 +1,5 @@
+# Test 2
+
 ## Heather McRobie Allansdottir
 <img src="images/Heather.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
