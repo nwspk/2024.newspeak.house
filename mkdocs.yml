@@ -3,6 +3,7 @@ site_url: "https://2024.newspeak.house"
 theme:
   name: simple-blog
   custom_dir: custom_theme
+  favicon: images/favicon.png
 nav:
   - Home: index.md
   - Day Guests: day_guests.md
