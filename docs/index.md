@@ -66,4 +66,4 @@ Data Scientist combining analytical thinking and creative experimentation with a
 ## Yung-Hsuan Wu
 <img src="images/Yung-Hsuan.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
-Holds a Master’s in International Affairs with experience in digital policymaking within Geneva's diplomatic and UN ecosystem. Focused on AI policy and governance, exploring the societal and technological intersections from a sociological and anthropological lens.
+Yung-Hsuan is a social studies researcher on AI dedicated to portraying the co-constitutive relationship between technology and society; he documents his adventure on [Substack](https://embeddedsociologist.substack.com/). Outside of research, he purposefully gets lost in different parts of the city, meets people and writes them into stories, and works on secret side projects.
