@@ -46,7 +46,7 @@ UX Researcher in public sector, focused on improving user experiences. Co-runs a
 ## Tristan Spill
 <img src="images/Tristan.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
-Graphic designer specializing in UI/UX and online branding. Has worked with major clients like EMI, Viacom, and Disney, with experience in movie posters and digital marketing. Now focused on activism, consulting for scientists against nuclear reactors, and supporting the Green Party and neurodiversity.
+Graphic designer specializing in UI/UX and online branding. Focused on activism for Green issues and neurodiversity.
 
 ## Melissa Tranfield
 <img src="images/Mel.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
