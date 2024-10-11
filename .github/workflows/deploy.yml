@@ -37,8 +37,8 @@ jobs:
       - name: Build MkDocs site
         run: mkdocs build
 
-      # Step 6: Deploy to GitHub Pages with custom CNAME
+      # Step 6: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force --remote-branch gh-pages --cname "2024.newspeak.house" --verbose
+        run: mkdocs gh-deploy --force --remote-branch gh-pages --verbose
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
