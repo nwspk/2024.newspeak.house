@@ -12,11 +12,11 @@ jobs:
     steps:
       # Step 1: Checkout the code
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  
 
       # Step 2: Set up Python environment
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5  
         with:
           python-version: '3.11'
 
@@ -27,12 +27,18 @@ jobs:
           pip install mkdocs-simple-blog
           pip install ghp-import
 
-      # Step 4: Build MkDocs site
+      # Step 4: Configure git
+      - name: Configure git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+      # Step 5: Build MkDocs site
       - name: Build MkDocs site
         run: mkdocs build
 
-      # Step 5: Deploy to GitHub Pages with custom CNAME
+      # Step 6: Deploy to GitHub Pages with custom CNAME
       - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force --remote-branch gh-pages --cname "2024.newspeak.house"
+        run: mkdocs gh-deploy --force --remote-branch gh-pages --cname "2024.newspeak.house" --verbose
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
