@@ -1,0 +1,16 @@
+<!-- block menu -->
+{%- if nav|length > 1 %}
+    {% if config.theme.components and config.theme.components.menu == False %}
+    {% else %}
+        <ul class="navbar-nav p-0 m-0">
+            {%- for nav_item in nav %}
+                {%- if not nav_item.active %}
+                    <li class="nav-item mx-2">
+                        <a class="nav-link text-decoration-none" href="{{ nav_item.url|url }}">[{{ nav_item.title }}]</a>
+                    </li>
+                {%- endif %}
+            {%- endfor %}
+        </ul>
+    {% endif %}
+{%- endif %}
+<!-- endblock -->

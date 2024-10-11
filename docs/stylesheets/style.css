@@ -1,63 +1,89 @@
-@font-face {
-    font-family: 'Copernicus';
-    src: url('/fonts/GalaxieCopernicus-Book.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Copernicus';
-    src: url('/fonts/GalaxieCopernicus-Bold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Copernicus';
-    src: url('/fonts/GalaxieCopernicus-BookItalic.ttf') format('truetype');
-    font-weight: normal;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Copernicus';
-    src: url('/fonts/GalaxieCopernicus-BoldItalic.ttf') format('truetype');
-    font-weight: bold;
-    font-style: italic;
-}
-
+/* Basic body styling */
 body {
-    /* max-width: 800px; */
     margin: 0 auto;
     padding: 1rem;
     line-height: 1.6;
-    /* font-family: 'Copernicus', sans-serif;  */
 }
-
-/* h2, h3, h4 {
-    font-family: 'Copernicus', sans-serif;
-} */
 
 h2 {
     clear: both;
     margin-top: 2rem;
     margin-bottom: 1rem;
-
 }
 
 p {
     margin-bottom: 2rem;
 }
 
+/* General Image Styling */
 img {
-    border-radius: 30px; /* Slightly rounded corners for images */
+    border-radius: 30px;
     margin-bottom: 2rem;
+    max-width: 100%; /* Ensure images don't overflow their container */
+    height: auto;    /* Maintain aspect ratio */
 }
 
+/* Floated Images for Larger Screens */
+img.float-left {
+    float: left;
+    margin: 0 1rem 1rem 0;
+}
+
+img.float-right {
+    float: right;
+    margin: 0 0 1rem 1rem;
+}
+
+/* Navigation Styles */
+.navbar-nav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center; /* Center the nav items */
+    align-items: center;
+}
+
+.nav-item {
+    margin: 0 8px; /* Spacing between items */
+}
+
+.nav-link {
+    font-size: 18px;
+    padding: 4px 8px;
+    text-decoration: none;
+    color: #333;
+    line-height: normal; /* Use normal line height */
+}
+
+/* Hover and active styles */
+.nav-link:hover {
+    text-decoration: underline;
+    color: #000;
+}
+
+/* Media Query for small screens */
 @media (max-width: 600px) {
+
     img {
-        float: none !important;
-        display: block;
-        margin: 0 auto 1rem auto !important;
+        float: none;             /* Remove float */
+        display: block;          /* Display as block */
+        margin: 1rem auto;       /* Center the image */
+        width: 70%;
+    }
+
+    p {
+        display: inline-block;
+    }
+
+    .navbar-nav {
+        flex-direction: column;
+        padding: 0; /* Remove padding */
+        margin: 0;  /* Remove margin */
+    }
+
+    .nav-item {
+        margin: 4px 0; /* Reduce spacing between nav items */
     }
 }
+
