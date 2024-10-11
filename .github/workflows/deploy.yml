@@ -18,32 +18,21 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'   # Use the appropriate Python version
+          python-version: '3.11'
 
       # Step 3: Install MkDocs and plugins
       - name: Install dependencies
         run: |
           pip install mkdocs
           pip install mkdocs-simple-blog
-          pip install ghp-import       # Required for deployment
+          pip install ghp-import
 
-      # Step 4: Build the MkDocs site
+      # Step 4: Build MkDocs site
       - name: Build MkDocs site
         run: mkdocs build
 
-    # Step 5: Copy CNAME to the build directory
-      - name: Copy CNAME file
-        run: |
-          echo "2024.newspeak.house" > site/CNAME
-          echo "2024.newspeak.house" > CNAME
-        working-directory: ${{ github.workspace }}
-
-      # Step 6: Confirm CNAME file is present
-      - name: Check CNAME file
-        run: cat site/CNAME
-
-      # Step 7: Deploy to GitHub Pages
+      # Step 5: Deploy to GitHub Pages with custom CNAME
       - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force --remote-branch gh-pages
+        run: mkdocs gh-deploy --force --remote-branch gh-pages --cname "2024.newspeak.house"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
