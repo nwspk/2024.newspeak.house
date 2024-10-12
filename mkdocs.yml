@@ -11,3 +11,7 @@ extra_css:
   - stylesheets/style.css
 extra_files:
   - CNAME
+extra:
+  analytics:
+    provider: custom
+
