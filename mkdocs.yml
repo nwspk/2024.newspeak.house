@@ -4,13 +4,13 @@ theme:
   name: simple-blog
   custom_dir: custom_theme
   favicon: images/favicon.png
+  extra_files: CNAME
 nav:
   - Home: index.md
   - Day Guests: day_guests.md
+  - Stay at Newspeak House: night_guests_form.md
 extra_css: 
   - stylesheets/style.css
-extra_files:
-  - CNAME
 extra:
   analytics:
     provider: custom

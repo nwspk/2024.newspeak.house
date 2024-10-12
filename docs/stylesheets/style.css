@@ -87,3 +87,9 @@ img.float-right {
     }
 }
 
+@media only screen and (max-width: 780px) {
+    a, code, li, p, small {
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+}
