@@ -1,0 +1,71 @@
+name: Optimize Images
+
+on:
+  pull_request:
+    paths:
+      - '**.png'
+      - '**.jpg'
+      - '**.jpeg'
+      - '**.gif'
+  push:
+    paths:
+      - '**.png'
+      - '**.jpg'
+      - '**.jpeg'
+      - '**.gif'
+
+jobs:
+  optimize:
+    if: ${{ github.actor != 'github-actions[bot]' }}  # Prevent infinite loops
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 2  # Fetch two commits for git diff
+
+    - name: Install ImageMagick and pngquant
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y imagemagick pngquant
+
+    - name: Find and Optimize Modified Images
+      run: |
+        # Get the list of modified images, handling merge commits
+        MODIFIED_IMAGES=$(git diff --name-only --diff-filter=AMR HEAD~1 | grep -E '\.(png|jpg|jpeg|gif)$')
+
+        # Exit if no images are modified
+        if [ -z "$MODIFIED_IMAGES" ]; then
+          echo "No modified images to optimize."
+          exit 0
+        fi
+
+        # Process images safely, even with spaces in file names
+        echo "$MODIFIED_IMAGES" | while IFS= read -r IMAGE; do
+          echo "Optimizing $IMAGE"
+          # For JPEGs
+          if [[ $IMAGE == *.jpg || $IMAGE == *.jpeg ]]; then
+            convert "$IMAGE" -resize 300x300\> -strip -define jpeg:extent=100kb "$IMAGE"
+          fi
+          # For PNGs
+          if [[ $IMAGE == *.png ]]; then
+            convert "$IMAGE" -resize 300x300\> -strip "$IMAGE"
+            pngquant --quality=65-80 --ext .png --force "$IMAGE"
+          fi
+        done
+
+    - name: Commit and Push Changes
+      run: |
+        # Configure git
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+        # Check for changes
+        if [ -n "$(git status --porcelain)" ]; then
+          git add .
+          git commit -m "Optimize new/modified images (300x300 and max 100kb)"
+          git push
+        else
+          echo "No changes to commit."
+        fi
