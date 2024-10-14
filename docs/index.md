@@ -5,7 +5,7 @@ The [Newspeak House](https://newspeak.house) yearly fellowship programme is desi
 <img src="images/induction-group-photo-small.jpg" alt="Cohort Group Photo" align="center">
 The 2024 cohort hail from 11 countries and collectively speak more than 15 languages.
 
-# The Fellows
+# 2024 Fellowship Candidates
 ### Heather McRobie Allansdottir
 <img src="images/Heather.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
