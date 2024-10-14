@@ -1,5 +1,3 @@
-## Code of Conduct
-
 1. Act in the best interest and spirit of Newspeak House
 2. Respect residents’ private space (do not go into private rooms without invitation)
 3. Respect people and the physical facility at Newspeak House.
