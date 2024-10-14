@@ -30,4 +30,4 @@ London, England
 
 E2 7DG
 
-**Newspeak House is a mix-use space, so we ask guests to adhere to this code of conduct.**
+**Newspeak House is a mix-use space, so we ask guests to adhere to the [code of conduct](https://www.2024.newspeak.house/code_of_conduct).**
