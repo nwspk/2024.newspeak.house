@@ -19,7 +19,7 @@ Researcher and designer at the intersections of sustainability transitions and c
 ## Jyotsna Iyer 
 <img src="images/Jyo.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<a href="https://jyotsna-iy.github.io/">Jyo</a> is a Research Assistant at The Alan Turing Institute in the Trustworthy Digital Infrastructures for Identity Systems project. She is currently interested in producing research/projects in the field of political economy/platform economy and has been developing an independent research practice which draws from the humanities (literary and cultural studies, media studies, philosophy).
 
 ## Richard Kemp
 <img src="images/Richard.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
