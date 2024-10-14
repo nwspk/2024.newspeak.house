@@ -5,6 +5,10 @@ body {
     line-height: 1.6;
 }
 
+h1 {
+    text-align: center;
+}
+
 h2 {
     clear: both;
     margin-top: 2rem;

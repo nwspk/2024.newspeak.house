@@ -1,4 +1,12 @@
-## Heather McRobie Allansdottir
+# About the fellowship
+
+The [Newspeak House](https://newspeak.house) yearly fellowship programme is designed to support mid-career technologists to develop a holistic understanding of the civic landscape in the UK, in order to found groundbreaking new projects or seek strategic positions in key institutions.
+
+<img src="images/induction-group-photo-small.jpg" alt="Cohort Group Photo" align="center">
+The 2024 cohort hail from 11 countries and collectively speak more than 15 languages.
+
+# The Fellows
+### Heather McRobie Allansdottir
 <img src="images/Heather.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
 Law scholar and writer at the intersections of public international law and political technologies. Doctorate in Law from Oxford University; Lecturer in international and human rights law in Iceland, Australia, and the UK; Researcher in space law and sustainability.

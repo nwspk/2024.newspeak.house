@@ -16,7 +16,7 @@ on:
 
 jobs:
   optimize:
-    if: ${{ github.actor != 'github-actions[bot]' }}  # Prevent infinite loops
+    if: ${{ github.actor != 'github-actions[bot]' && !contains(github.event.head_commit.message, '[skip-optimize]') }}  # Prevent infinite loops and check commit message
     runs-on: ubuntu-latest
 
     steps:
