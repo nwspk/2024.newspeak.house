@@ -16,6 +16,11 @@ Law scholar and writer at the intersections of public international law and poli
 
 Researcher and designer at the intersections of sustainability transitions and collective intelligence. PhD Candidate at Brussels School of Governance; Principal Consultant at Raincoatfish; Associate Researcher at Mútua Systems.
 
+## Jyotsna Iyer 
+<img src="images/Jyo.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 ## Richard Kemp
 <img src="images/Richard.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
