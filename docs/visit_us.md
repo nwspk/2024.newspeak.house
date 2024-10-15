@@ -12,7 +12,7 @@ As fellow candidates, we warmly welcome you to visit us!
 
 **1. Come chat with the fellow candidates.** You can check the [homepage](https://2024.newspeak.house/) to see our interests.
 
-**2. Co-work with us.** Reach out to us through cohort@newspeak.house
+**2. Co-work with us.** Reach out to us through cohort@newspeak.house.
 
 **3. Attend events.** Visit the [events page](https://newspeak.house/events) for more information. 
 
