@@ -38,7 +38,7 @@ CEO of Civox, a startup creating voice AI tools for global political campaigns. 
 
 ## Claddagh
 <img src="images/Claddagh.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
-[Claddaghs](https://claddnl.github.io) background lies in political advocacy and campaigns, and scrappy start-ups. She holds master’s degrees in public policy and computer science. She cares about refugee rights, climate advocacy, trade unionism and workers rights, OSINT and ICC/ICJ reform, and is interested in exploring their intersections with political technology while at Newspeak. 
+[Claddagh's](https://claddnl.github.io) background lies in political advocacy and campaigns, and scrappy start-ups. She holds master’s degrees in public policy and computer science. She cares about refugee rights, climate advocacy, trade unionism and workers rights, OSINT and ICC/ICJ reform, and is interested in exploring their intersections with political technology while at Newspeak. 
 
 ## David Norton
 <img src="images/David.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
