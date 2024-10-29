@@ -11,7 +11,7 @@
 - **Intoxication:** refrain yourself from excessive alcohol consumption. Our aim is to create an enjoyable and safe environment for everyone. We appreciate your cooperation in drinking responsibly.
 - **Substance use:** This is a public space, please abide by the law. We do not support and are not responsible for any illicit behaviour inside the house.
 6. **See it, say it, sort it:** Call out early if you see signs of potential issues and talk to your host, a fellow candidate or email us at cohort@newspeak.house. Alternatively, use the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfMqX_Ry3beaB0-9XsJWNBpssTvkQiIGtWfbWnHzAeAMGj_jA/viewform) to raise issues. 
-7. **Emergency numbers:** Call **999 (local police)** if you are reporting a crime / assault / harassment / abuse that is in progress or if someone is in immediate danger. Call **111 for health-related emergencies**. Our closest hospital is The Royal London Hospital on Whitechapel Rd, London E1 1FR.
+7. **Emergency numbers:** Call **999 (local police)** if you are reporting a crime / assault / harassment / abuse that is in progress or if someone is in immediate danger. Call **999 for medical emergencies** and **111 for other health related concerns.** Our closest hospital is The Royal London Hospital on Whitechapel Rd, London E1 1FR.
 
 ### Common Area Etiquette
 Each person who uses the common space is expected to restore the environment back to how it was.
