@@ -36,10 +36,9 @@ Data analyst with degrees in Applied Mathematics and Data Analytics, shifting to
 
 CEO of Civox, a startup creating voice AI tools for global political campaigns. Stanford CS graduate with experience at Telegram and Cardless. Former reporter with work in major newspapers, focused on open data and transparency.
 
-## Claddagh 
+## Claddagh
 <img src="images/Claddagh.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
-
-Background in political advocacy and campaigns, and scrappy start-ups. Holds master’s degrees in public policy and computer science. Cares about refugee rights, climate advocacy, trade unionism and workers rights, OSINT and ICC/ICJ reform, and is interested in exploring their intersections with political technology while at Newspeak. Reach out [here](https://linktr.ee/claddnl) 
+[Claddaghs](https://claddnl.github.io) background lies in political advocacy and campaigns, and scrappy start-ups. She holds master’s degrees in public policy and computer science. She cares about refugee rights, climate advocacy, trade unionism and workers rights, OSINT and ICC/ICJ reform, and is interested in exploring their intersections with political technology while at Newspeak. 
 
 ## David Norton
 <img src="images/David.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
