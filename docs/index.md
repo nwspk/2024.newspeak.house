@@ -5,7 +5,7 @@ The [Newspeak House](https://newspeak.house) yearly fellowship programme is desi
 <img src="images/induction-group-photo-small.jpg" alt="Cohort Group Photo" align="center">
 The 2024 cohort hail from 11 countries and collectively speak more than 15 languages.
 
-# The Fellows
+# 2024 Fellowship Candidates
 ### Heather McRobie Allansdottir
 <img src="images/Heather.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
@@ -19,7 +19,7 @@ Researcher and designer at the intersections of sustainability transitions and c
 ## Jyotsna Iyer 
 <img src="images/Jyo.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<a href="https://jyotsna-iy.github.io/">Jyo</a> is a Research Assistant at The Alan Turing Institute in the Trustworthy Digital Infrastructures for Identity Systems project. She is currently interested in producing research/projects in the field of political economy/platform economy and has been developing an independent research practice which draws from the humanities (literary and cultural studies, media studies, philosophy).
 
 ## Richard Kemp
 <img src="images/Richard.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
@@ -36,10 +36,9 @@ Data analyst with degrees in Applied Mathematics and Data Analytics, shifting to
 
 CEO of Civox, a startup creating voice AI tools for global political campaigns. Stanford CS graduate with experience at Telegram and Cardless. Former reporter with work in major newspapers, focused on open data and transparency.
 
-## Claddagh 
+## Claddagh
 <img src="images/Claddagh.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
-
-Background in Parliamentary advocacy and campaigns, scrappy start-ups, and well intentioned (though not always effective) campaigning on various social issues. Holds master’s degrees in public policy and computer science. Cares about refugee rights, climate advocacy, trade unionism and workers rights, OSINT and ICC/ICJ reform, and is interested in exploring their intersections with political technology while at Newspeak. More @ https://linktr.ee/claddnl
+[Claddagh's](https://claddnl.github.io) background lies in political advocacy and campaigns, and scrappy start-ups. She holds master’s degrees in public policy and computer science. She cares about refugee rights, climate advocacy, trade unionism and workers rights, OSINT and ICC/ICJ reform, and is interested in exploring their intersections with political technology while at Newspeak. 
 
 ## David Norton
 <img src="images/David.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
