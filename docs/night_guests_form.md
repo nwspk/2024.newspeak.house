@@ -15,13 +15,11 @@ Below is the room availability:
 
 If you are interested, please complete the form below. We will try to get back to you in a few days!
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<div style="width: 100%;">
   <iframe
     src="https://docs.google.com/forms/d/e/1FAIpQLSckt6EScYoGSkx_7YYc78VMQUmvLzW4YTYl6GSmcYcjf2lETQ/viewform?embedded=true"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
-    allowfullscreen
-    webkitallowfullscreen
-    mozallowfullscreen
+    style="width: 100%; height: auto; min-height: 1500px; border: none;"
+    frameborder="0"
   >
     Loading…
   </iframe>
