@@ -16,7 +16,7 @@ As fellow candidates, we warmly welcome you to visit us!
 
 **3. Attend events.** Visit the [events page](https://newspeak.house/events) for more information. 
 
-**4. Attend Ration Club dinners.** Every Wednesday evening, we or a community member cooks dinner for anyone who visits. Register through this [form](https://docs.google.com/forms/d/e/1FAIpQLSed58owWTnOqYI-zWoabBnayGZN9Yo0FXq-oqs-DzM3HuxdcA/viewform).
+**4. Attend Ration Club dinners.** Every Wednesday evening, from 7pm, we or a community member cooks dinner for anyone who visits. Register through this [form](https://docs.google.com/forms/d/e/1FAIpQLSed58owWTnOqYI-zWoabBnayGZN9Yo0FXq-oqs-DzM3HuxdcA/viewform).
 
 ### Where is Newspeak House?
 
