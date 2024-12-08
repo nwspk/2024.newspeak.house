@@ -73,7 +73,7 @@ Software engineer at ExpressVPN, exploring game development and meditation. Inte
 ## Simon Wisdom
 <img src="images/Simon.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
-Data Scientist combining analytical thinking and creative experimentation with a background in management and fintech. Currently focused on AI, exploring technical alignment, governance, and policy. Enjoys creative projects and facilitates connection workshops at festivals and workplaces.
+[Simon](https://simonwisdom.com) combines analytical thinking and creative experimentation to bring joy to his small corner of the world. Currently focused on AI, exploring technical alignment, governance, and policy. He enjoys tinkering on creative projects and facilitates connection workshops at festivals and workplaces.
 
 ## Yung-Hsuan Wu
 <img src="images/Yung-Hsuan.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">

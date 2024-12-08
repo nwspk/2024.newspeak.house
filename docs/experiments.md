@@ -1,0 +1,1 @@
+We are testing hypotheses on how to live together well and self-organise better so we can share our learnings with the world.

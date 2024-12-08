@@ -9,6 +9,9 @@ nav:
   - Home: index.md
   - Visit Us: visit_us.md
   - Stay at Newspeak House: night_guests_form.md
+  - Wellbeing: wellbeing.md
+  - Experiments: experiments.md
+  - Sensing: sensing.md
 extra_css: 
   - stylesheets/style.css
 extra:
