@@ -3,3 +3,5 @@ We are developing a wellbeing program for fellows and friends of Newspeak House,
 If you're interested in joining, sign up here:
 
 < sign up form coming soon >
+
+<img src="/images/wellbeing.jpg" alt="Bookshelves" class="img-fluid">
