@@ -12,6 +12,7 @@ nav:
   - Wellbeing: wellbeing.md
   - Experiments: experiments.md
   - Sensing: sensing.md
+  - Books: books.md
 extra_css: 
   - stylesheets/style.css
 extra:
