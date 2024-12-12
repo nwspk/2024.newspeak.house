@@ -1,0 +1,1 @@
+In 2025 we will host a 'coffee roulette' to regularly match people within the Newspeak House network with similar interests and experience and knowledge to share.
