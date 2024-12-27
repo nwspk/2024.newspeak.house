@@ -20,6 +20,6 @@ To keep up to date with the events, sign up to this dedicated mailing list:
     </div>
 </form>
 
-(Who is Simon and Yung-Hsuan? Visit the 2024-25 Newspeak House fellowship candidate [main page](https://2024.newspeak.house/).
+(Who is Simon and Yung-Hsuan? Visit the 2024-25 Newspeak House fellowship candidate [main page](https://2024.newspeak.house/).)
 
 <img src="../images/FrontNewspeakHouse02.jpg" alt="NWSPK House" class="img-fluid">
