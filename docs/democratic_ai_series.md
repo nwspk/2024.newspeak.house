@@ -1,6 +1,6 @@
 **Artificial intelligence is increasingly playing an important part in our sociopolitical life.**
 
-Some worry about the erosion of democracy by propagating disinformation and entrapping citizens in epistemic bubbles; others are convinced of AI’s ability to facilitate direct democracy and make public deliberation more efficient. 
+Some worry about AI's erosion of democracy by propagating disinformation and entrapping citizens in epistemic bubbles; others are convinced of AI’s ability to facilitate direct democracy and make public deliberation more efficient. 
 
 In the Democratic AI series, Simon and Yung-Hsuan guide the audience to explore how various AI tools can foster healthy democratic deliberation and collective decision-making.
 
