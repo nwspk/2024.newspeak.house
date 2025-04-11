@@ -2,7 +2,9 @@
 
 The [Newspeak House](https://newspeak.house) yearly fellowship programme is designed to support mid-career technologists to develop a holistic understanding of the civic landscape in the UK, in order to found groundbreaking new projects or seek strategic positions in key institutions.
 
-Most recently, the cohort has completed their grantmaking project; the 2025 Political Technology Awards. The final report, including the allocation of funding as part of that project, can be viewed [here](https://docs.google.com/document/d/1RoBd8JeJsRu9Z1dChSmWIWfpTbcuN4L8VmIhPbmkVys/edit?usp=sharing)
+Most recently, the cohort has completed their grantmaking project; the 2025 Political Technology Awards. The final report, including the allocation of funding as part of that project, can be viewed [here](https://docs.google.com/document/d/1RoBd8JeJsRu9Z1dChSmWIWfpTbcuN4L8VmIhPbmkVys/edit?usp=sharing).
+
+Additionally, each cohort member wrote up an individual reflection on the grantmaking process. View that [here](https://docs.google.com/document/d/1Yqy0uTJwLPrLCkEacVNs2UbS4IX0MP8h-UoSHkPlNgE/edit?usp=sharing). 
 
 <img src="images/induction-group-photo-small.jpg" alt="Cohort Group Photo" align="center">
 The 2024 cohort hail from 11 countries and collectively speak more than 15 languages.
