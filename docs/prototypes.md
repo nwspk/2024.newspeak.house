@@ -208,9 +208,9 @@ Each fellow has developed their project independently, with guidance from our fa
   <div class="card">
     <a href="heather-project/">
       <div class="card-image">
-        <img src="./images/newspeak-logo.png" alt="Heather's Project Screenshot" class="project-logo-image">
+        <img src="/images/newspeak-logo.png" alt="Heather's Project Screenshot" class="project-logo-image">
         <div class="profile-image">
-          <img src="./images/Heather.jpeg" alt="Heather McRobie">
+          <img src="/images/Heather.jpeg" alt="Heather McRobie">
         </div>
       </div>
       <div class="card-content">
@@ -240,9 +240,9 @@ Each fellow has developed their project independently, with guidance from our fa
   <div class="card">
     <a href="ollie-project/">
       <div class="card-image">
-        <img src="./images/newspeak-logo.png" alt="Ollie's Project Screenshot" class="project-logo-image">
+        <img src="/images/newspeak-logo.png" alt="Ollie's Project Screenshot" class="project-logo-image">
         <div class="profile-image">
-          <img src="./images/Ollie.jpeg" alt="Ollie Bream McIntosh">
+          <img src="/images/Ollie.jpeg" alt="Ollie Bream McIntosh">
         </div>
       </div>
       <div class="card-content">
@@ -272,9 +272,9 @@ Each fellow has developed their project independently, with guidance from our fa
   <div class="card">
     <a href="jyo-project/">
       <div class="card-image">
-        <img src="./images/newspeak-logo.png" alt="Jyotsna's Project Screenshot" class="project-logo-image">
+        <img src="/images/newspeak-logo.png" alt="Jyotsna's Project Screenshot" class="project-logo-image">
         <div class="profile-image">
-          <img src="./images/Jyo.jpeg" alt="Jyotsna Iyer">
+          <img src="/images/Jyo.jpeg" alt="Jyotsna Iyer">
         </div>
       </div>
       <div class="card-content">
@@ -305,10 +305,10 @@ Each fellow has developed their project independently, with guidance from our fa
     <a href="richard-project/">
       <div class="card-image">
       <div class="project-logo-image">
-        <img src="./images/newspeak-logo.png" alt="Richard's Project Screenshot" class="project-logo-image">
+        <img src="/images/newspeak-logo.png" alt="Richard's Project Screenshot" class="project-logo-image">
         </div>
         <div class="profile-image">
-          <img src="./images/Richard.jpeg" alt="Richard Kemp">
+          <img src="/images/Richard.jpeg" alt="Richard Kemp">
         </div>
       </div>
       <div class="card-content">
@@ -338,9 +338,9 @@ Each fellow has developed their project independently, with guidance from our fa
   <div class="card">
     <a href="paulina-project/">
       <div class="card-image">
-        <img src="./images/newspeak-logo.png" alt="Paulina's Project Screenshot" class="project-logo-image">
+        <img src="/images/newspeak-logo.png" alt="Paulina's Project Screenshot" class="project-logo-image">
         <div class="profile-image">
-          <img src="./images/Paulina.jpeg" alt="Paulina Wisdom">
+          <img src="/images/Paulina.jpeg" alt="Paulina Wisdom">
         </div>
       </div>
       <div class="card-content">
@@ -370,9 +370,9 @@ Each fellow has developed their project independently, with guidance from our fa
   <div class="card">
     <a href="ilya-project/">
       <div class="card-image">
-        <img src="./images/newspeak-logo.png" alt="Ilya's Project Screenshot" class="project-logo-image">
+        <img src="/images/newspeak-logo.png" alt="Ilya's Project Screenshot" class="project-logo-image">
         <div class="profile-image">
-          <img src="./images/Ilya.jpeg" alt="Ilya Mouzykantskii">
+          <img src="/images/Ilya.jpeg" alt="Ilya Mouzykantskii">
         </div>
       </div>
       <div class="card-content">
@@ -402,9 +402,9 @@ Each fellow has developed their project independently, with guidance from our fa
   <div class="card">
     <a href="claddagh-project/">
       <div class="card-image">
-        <img src="./images/newspeak-logo.png" alt="Claddagh's Project Screenshot" class="project-logo-image">
+        <img src="/images/newspeak-logo.png" alt="Claddagh's Project Screenshot" class="project-logo-image">
         <div class="profile-image">
-          <img src="./images/Claddagh.jpeg" alt="Claddagh NicLochlainn">
+          <img src="/images/Claddagh.jpeg" alt="Claddagh NicLochlainn">
         </div>
       </div>
       <div class="card-content">
@@ -434,9 +434,9 @@ Each fellow has developed their project independently, with guidance from our fa
   <div class="card">
     <a href="david-project/">
       <div class="card-image">
-        <img src="./images/newspeak-logo.png" alt="David's Project Screenshot" class="project-logo-image">
+        <img src="/images/newspeak-logo.png" alt="David's Project Screenshot" class="project-logo-image">
         <div class="profile-image">
-          <img src="./images/David.jpeg" alt="David Norton">
+          <img src="/images/David.jpeg" alt="David Norton">
         </div>
       </div>
       <div class="card-content">
@@ -466,9 +466,9 @@ Each fellow has developed their project independently, with guidance from our fa
   <div class="card">
     <a href="dorcas-project/">
       <div class="card-image">
-        <img src="./images/newspeak-logo.png" alt="Dorcas's Project Screenshot" class="project-logo-image">
+        <img src="/images/newspeak-logo.png" alt="Dorcas's Project Screenshot" class="project-logo-image">
         <div class="profile-image">
-          <img src="./images/Dorcas.jpeg" alt="Dorcas Nyamwaya">
+          <img src="/images/Dorcas.jpeg" alt="Dorcas Nyamwaya">
         </div>
       </div>
       <div class="card-content">
@@ -498,9 +498,9 @@ Each fellow has developed their project independently, with guidance from our fa
   <div class="card">
     <a href="alex-project/">
       <div class="card-image">
-        <img src="./images/newspeak-logo.png" alt="Alex's Project Screenshot" class="project-logo-image">
+        <img src="/images/newspeak-logo.png" alt="Alex's Project Screenshot" class="project-logo-image">
         <div class="profile-image">
-          <img src="./images/Alex.jpeg" alt="Alex Papadopoulos">
+          <img src="/images/Alex.jpeg" alt="Alex Papadopoulos">
         </div>
       </div>
       <div class="card-content">
@@ -530,9 +530,9 @@ Each fellow has developed their project independently, with guidance from our fa
   <div class="card">
     <a href="tristan-project/">
       <div class="card-image">
-        <img src="./images/newspeak-logo.png" alt="Tristan's Project Screenshot" class="project-logo-image">
+        <img src="/images/newspeak-logo.png" alt="Tristan's Project Screenshot" class="project-logo-image">
         <div class="profile-image">
-          <img src="./images/Tristan.jpeg" alt="Tristan Spill">
+          <img src="/images/Tristan.jpeg" alt="Tristan Spill">
         </div>
       </div>
       <div class="card-content">
@@ -562,9 +562,9 @@ Each fellow has developed their project independently, with guidance from our fa
   <div class="card">
     <a href="melissa-project/">
       <div class="card-image">
-        <img src="./images/newspeak-logo.png" alt="Melissa's Project Screenshot" class="project-logo-image">
+        <img src="/images/newspeak-logo.png" alt="Melissa's Project Screenshot" class="project-logo-image">
         <div class="profile-image">
-          <img src="./images/Mel.jpeg" alt="Melissa Tranfield">
+          <img src="/images/Mel.jpeg" alt="Melissa Tranfield">
         </div>
       </div>
       <div class="card-content">
@@ -594,9 +594,9 @@ Each fellow has developed their project independently, with guidance from our fa
   <div class="card">
     <a href="casimir-project/">
       <div class="card-image">
-        <img src="./images/newspeak-logo.png" alt="Casimir's Project Screenshot" class="project-logo-image">
+        <img src="/images/newspeak-logo.png" alt="Casimir's Project Screenshot" class="project-logo-image">
         <div class="profile-image">
-          <img src="./images/Casimir.jpeg" alt="Casimir Wanot">
+          <img src="/images/Casimir.jpeg" alt="Casimir Wanot">
         </div>
       </div>
       <div class="card-content">
@@ -628,7 +628,7 @@ Each fellow has developed their project independently, with guidance from our fa
       <div class="card-image">
         <img src="https://chatlinks.xyz/assets/chatlinks-logo.png" alt="Simon's Project Screenshot" class="project-logo-image chatlinks-logo-fix">
         <div class="profile-image">
-          <img src="./images/Simon.jpeg" alt="Simon Wisdom">
+          <img src="/images/Simon.jpeg" alt="Simon Wisdom">
         </div>
       </div>
       <div class="card-content">
@@ -659,9 +659,9 @@ Each fellow has developed their project independently, with guidance from our fa
   <div class="card">
     <a href="yung-hsuan-project/">
       <div class="card-image">
-        <img src="./images/newspeak-logo.png" alt="Yung-Hsuan's Project Screenshot" class="project-logo-image">
+        <img src="/images/newspeak-logo.png" alt="Yung-Hsuan's Project Screenshot" class="project-logo-image">
         <div class="profile-image">
-          <img src="./images/Yung-Hsuan.jpeg" alt="Yung-Hsuan Wu">
+          <img src="/images/Yung-Hsuan.jpeg" alt="Yung-Hsuan Wu">
         </div>
       </div>
       <div class="card-content">
