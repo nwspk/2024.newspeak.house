@@ -192,15 +192,17 @@
 }
 </style>
 <div class="intro-content">
-Fellowship Prototypes represent original contributions to the field of political technology by our 2025 cohort. Each project addresses real-world civic challenges, creating infrastructural tools designed to be used by political, civic, or public sector communities. 
+<p>Fellowship Prototypes represent original contributions to the field of political technology by our 2025 cohort. Each project addresses real-world civic challenges, creating infrastructural tools designed to be used by political, civic, or public sector communities.</p>
 
-The projects showcased here reflect our commitment to creating technology that is:
-- Available to organizations regardless of political affiliation
-- Designed for real-world use by civic communities
-- Addressing gaps in existing civic infrastructure
-- Built with privacy, security, and accessibility in mind
+<p>The projects showcased here reflect our commitment to creating technology that is:</p>
+<ul>
+<li>Available to organizations regardless of political affiliation</li>
+<li>Designed for real-world use by civic communities</li>
+<li>Addressing gaps in existing civic infrastructure</li>
+<li>Built with privacy, security, and accessibility in mind</li>
+</ul>
 
-Each fellow has developed their project independently, with guidance from our faculty and input from potential user communities
+<p>Each fellow has developed their project independently, with guidance from our faculty and input from potential user communities</p>
 </div>
 
 <div class="card-grid">
