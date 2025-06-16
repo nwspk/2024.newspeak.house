@@ -1,4 +1,17 @@
-We welcome friends of Newspeak House to stay with us for a maximum of 5 days.
+We welcome friends of Newspeak House to stay with us for a maximum of 5 days.<br>
+If you'd like to stay with us, click the button below:
+
+<div style="width: 100%; text-align: center; padding: 2em 0;">
+  <a
+    href="https://symon.app.n8n.cloud/webhook/booking-page"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="background-color: #4CAF50; color: white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px;"
+  >
+    Request to stay
+  </a>
+</div>
+
 
 Below is the room availability:
 
@@ -15,12 +28,3 @@ Below is the room availability:
 
 If you are interested, please complete the form below. We will try to get back to you in a few days!
 
-<div style="width: 100%;">
-  <iframe
-    src="https://symon.app.n8n.cloud/webhook/booking-page"
-    style="width: 100%; height: auto; min-height: 1500px; border: none;"
-    frameborder="0"
-  >
-    Loading…
-  </iframe>
-</div>
