@@ -4,7 +4,7 @@ The [Newspeak House](https://newspeak.house) yearly fellowship programme is desi
 
 The cohort has created a [multimedia publication](https://thepoliticaltechnologist.substack.com) that covers the latest developments and trends in political technology.
 
-In April 2025 the cohort completed their [grantmaking project](https://docs.google.com/document/d/1RoBd8JeJsRu9Z1dChSmWIWfpTbcuN4L8VmIhPbmkVys/edit?usp=sharing): the 2025 Political Technology Awards, whose write-up includes the allocation of funding as part of that project. Additionally, each cohort member wrote up [individual reflections](https://docs.google.com/document/d/1Yqy0uTJwLPrLCkEacVNs2UbS4IX0MP8h-UoSHkPlNgE/edit?usp=sharing) on the grantmaking process.
+In April 2025 the cohort completed their [grantmaking project](https://docs.google.com/document/d/1RoBd8JeJsRu9Z1dChSmWIWfpTbcuN4L8VmIhPbmkVys/edit?usp=sharing): the 2025 Political Technology Awards, whose write-up includes the allocation of funding as part of that project. Additionally, each cohort member wrote [individual reflections](https://docs.google.com/document/d/1Yqy0uTJwLPrLCkEacVNs2UbS4IX0MP8h-UoSHkPlNgE/edit?usp=sharing) on the grantmaking process.
 
 <img src="images/induction-group-photo-small.jpg" alt="Cohort Group Photo" align="center">
 The 2024 cohort hail from 11 countries and collectively speak more than 15 languages.
