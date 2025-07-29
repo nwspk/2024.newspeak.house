@@ -29,13 +29,13 @@ Researcher and designer at the intersections of sustainability transitions and c
 <img src="images/Richard.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
 Focused on cultural evolution, coordination problems, spirituality, and optimism. Interested in recreating the positive effects of religious faith in a distributed way and reforming democracy for a complex world. Background in engineering and financial services; enjoys programming, fantasy, science fiction, and music.
-Created [Community Platform](https://community.richardkemp.uk)
+Created [Community Platform](https://community.richardkemp.uk).
 
 ## Paulina Wisdom
 <img src="images/Paulina.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
 Data analyst with degrees in Applied Mathematics and Data Analytics, shifting to public health to apply behavioral science and game theory. Experienced in community-building and connecting students with non-profits. Passionate about leveraging technology, science, and art for positive change.
-Created [Spare Change](https://spare-change.lovable.app/) and [How We Doin](https://how-we-doin.lovable.app/)
+Created [Spare Change](https://spare-change.lovable.app/) and [How We Doin](https://how-we-doin.lovable.app/).
 
 ## Claddagh
 <img src="images/Claddagh.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
@@ -60,7 +60,7 @@ Graphic designer specializing in UI/UX and online branding. Focused on activism 
 <img src="images/Mel.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
 Software engineer focused on using technology, education, and policy to build a better society. Contributes to Campaign Lab on progressive tech and election tools, and organizes for codebar, teaching programming to minority groups. Passionate about exploring well-designed political tech to drive social change.
-Created [Wealth Watch](https://wealth-watch-clarity.lovable.app/)
+Created [Wealth Watch](https://wealth-watch-clarity.lovable.app/).
 
 ## Casimir Jan Wanot
 <img src="images/Casimir.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
@@ -71,10 +71,10 @@ Software engineer at ExpressVPN, exploring game development and meditation. Inte
 <img src="images/Simon.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
 [Simon](https://simonwisdom.com) combines analytical thinking and creative experimentation to bring joy to his small corner of the world. Currently focused on AI, exploring technical alignment, governance, and policy. He enjoys tinkering on creative projects and facilitates connection workshops at festivals and workplaces.
-Created [ChatLinks](https://chatlinks.xyz/) and [Whirlpool](https://whirlpool.buzz/)
+Created [ChatLinks](https://chatlinks.xyz/) and [Whirlpool](https://whirlpool.buzz/).
 
 ## Yung-Hsuan Wu
 <img src="images/Yung-Hsuan.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
 [Yung-Hsuan](https://yunghsuanwu.com/) is a social studies researcher on AI dedicated to portraying the co-constitutive relationship between technology and society. During the day, he works as an algorithmic auditor at [Eticas](https://eticas.ai/). Outside of work, he likes roaming around the city aimlessly, writes people around him into stories, and works on secret side projects. Check them out [here](https://linktr.ee/yunghsuanwu).
-Created [Re:Immigration](https://re-immigration.notastranger.org/)
+Created [Re:Immigration](https://re-immigration.notastranger.org/).
