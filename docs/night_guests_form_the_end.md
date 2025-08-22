@@ -1,3 +1,1 @@
-We welcome friends of Newspeak House to stay with us for a maximum of 5 days.
-
 The 2024-2025 cohort has finished and the guest room is closed for now. The new cohort will start at the end of September 2025, stay tuned!
