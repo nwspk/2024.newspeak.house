@@ -54,7 +54,8 @@ Governance specialist researching digital technologies, democratic processes, an
 ## Tristan Spill
 <img src="images/Tristan.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
-Graphic designer specializing in UI/UX and online branding. Focused on activism for Green issues and neurodiversity.
+Graphic designer interested in making hyper local Zines and floating wonders. Exploring Green issues, energy policy and neurodiversity as well as new methods to deal with overwhelm, infoglut and linkrot. 
+Created [for you page A4 mini-zine](https://comicspill.neocities.org).
 
 ## Melissa Tranfield
 <img src="images/Mel.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
