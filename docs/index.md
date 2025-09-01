@@ -77,4 +77,4 @@ Created [ChatLinks](https://chatlinks.xyz/) and [Whirlpool](https://whirlpool.bu
 <img src="images/Yung-Hsuan.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
 [Yung-Hsuan](https://yunghsuanwu.com/) is a social studies researcher on AI dedicated to portraying the co-constitutive relationship between technology and society. During the day, he works as an algorithmic auditor at [Eticas](https://eticas.ai/). Outside of work, he likes roaming around the city aimlessly, writes people around him into stories, and works on secret side projects. Check them out [here](https://linktr.ee/yunghsuanwu).
-Created [Re:Immigration](https://re-immigration.notastranger.org/).
+Created [Immigration Email Drafter](https://bit.ly/4lwBJ19).
