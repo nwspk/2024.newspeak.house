@@ -44,7 +44,7 @@ Created [Spare Change](https://spare-change.lovable.app/) and [How We Doin](http
 ## David Norton
 <img src="images/David.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
-Leads research, development, and innovation at Ekō, mobilizing millions to hold corporations accountable. Previously worked in Washington, D.C., Brussels, and London, including roles at the ITUC. Studied sociology, political science, corpus linguistics, and gender studies, focused on how ideas and movements spread online.
+Leads research, development, and innovation at Ekō, mobilizing millions to hold corporations accountable. Previously worked in Washington, D.C., Brussels, and London, including roles at the ITUC. Studied sociology, political science, corpus linguistics, and gender studies, focused on how ideas and movements spread online. Created [Placemarked](https://placemarked.notastranger.org/) and [Thanks, JK.](https://thanksjk.org/) 
 
 ## Dorcas Nyamwaya
 <img src="images/Dorcas.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
