@@ -44,7 +44,7 @@ Created [Spare Change](https://spare-change.lovable.app/) and [How We Doin](http
 ## David Norton
 <img src="images/David.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
-Leads research, development, and innovation at Ekō, mobilizing millions to hold corporations accountable. Previously worked in Washington, D.C., Brussels, and London, including roles at the ITUC. Studied sociology, political science, corpus linguistics, and gender studies, focused on how ideas and movements spread online.
+Leads research, development, and innovation at Ekō, mobilizing millions to hold corporations accountable. Previously worked in Washington, D.C., Brussels, and London, including roles at the ITUC. Studied sociology, political science, corpus linguistics, and gender studies, focused on how ideas and movements spread online. Created [Placemarked](https://placemarked.notastranger.org/) and [Thanks, JK.](https://thanksjk.org/) 
 
 ## Dorcas Nyamwaya
 <img src="images/Dorcas.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
@@ -54,7 +54,8 @@ Governance specialist researching digital technologies, democratic processes, an
 ## Tristan Spill
 <img src="images/Tristan.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
-Graphic designer specializing in UI/UX and online branding. Focused on activism for Green issues and neurodiversity.
+Graphic designer interested in making hyper local Zines and floating wonders. Exploring Green issues, energy policy and neurodiversity as well as new methods to deal with overwhelm, infoglut and linkrot. 
+Created [for you page A4 mini-zine](https://comicspill.neocities.org).
 
 ## Melissa Tranfield
 <img src="images/Mel.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
@@ -77,4 +78,4 @@ Created [ChatLinks](https://chatlinks.xyz/) and [Whirlpool](https://whirlpool.bu
 <img src="images/Yung-Hsuan.jpeg" alt="Logo" width="150" align="left" style="margin-right:40px">
 
 [Yung-Hsuan](https://yunghsuanwu.com/) is a social studies researcher on AI dedicated to portraying the co-constitutive relationship between technology and society. During the day, he works as an algorithmic auditor at [Eticas](https://eticas.ai/). Outside of work, he likes roaming around the city aimlessly, writes people around him into stories, and works on secret side projects. Check them out [here](https://linktr.ee/yunghsuanwu).
-Created [Re:Immigration](https://re-immigration.notastranger.org/).
+Created [Immigration Email Drafter](https://bit.ly/4lwBJ19).
